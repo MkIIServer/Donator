@@ -1,0 +1,7 @@
+name: Donator
+version: ${project.version}
+main: tw.mics.spigot.plugin.donator.donator.Donator
+authors: [Mics]
+description: ECPay automatic system
+website: https://mics.tw
+api-version: 1.13
